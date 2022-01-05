@@ -1,4 +1,4 @@
-https://make-a-wish-foundation.netlify.app/index.html
+https://make-a-wish-foundation.netlify.app/
 # payment-gateway-Sparks_Foundation
 Its An project of Payment Gateway Integration(Done as an Internship task of Sparks Foundation)
 
